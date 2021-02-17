@@ -1,0 +1,6 @@
+You can see the default directions in the line below.
+Up = Up arrow
+Down = Down arrow
+Left = Left arrow
+Right = Rifht arrow
+You can also change the direction buttons on lines 62 to 65. have a nice day.
